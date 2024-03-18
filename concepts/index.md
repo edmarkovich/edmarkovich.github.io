@@ -1,4 +1,4 @@
-[humility](humility.md)
-[infinity](infinity.md)
-[limitations](limitations.md)
-[principles](principles.md)
+- [humility](humility.md)
+- [infinity](infinity.md)
+- [limitations](limitations.md)
+- [principles](principles.md)
