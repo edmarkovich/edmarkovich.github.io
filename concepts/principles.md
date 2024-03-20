@@ -1,6 +1,5 @@
 Because of our [limitations](limitations.md) we must recognize that what we think at the moment or in general, has no deep claim to objective reality. Our instincts often lead us astray even in cases where we know better (eg: knowing that exercise is good vs being able to actually exercise sufficiently)
 
-
 TODO: entry for higher-level self.
 
 It seems that our decisions are much better where our limited monkey-brain isn't holding the steering wheel. Rather, it seems like our lives work better when our mundane life revolves around execution of pre-determined work that - hopefully - we have commited ourselves to with our higher selves.
@@ -19,6 +18,6 @@ Example: you know that exercise is good but that your lower-level self doesn't m
 
 How do we know what's good and what principles to accept? As I said, can the principle at least claim to be timeless and universal? In our example, physical fitness has been considered a virtue for millenia across cultures, and it's hard to imagine a situation in which being sick and out of shape is better than being halthy and fit. So we find it acceptable to accept that fitness is good as a meta principle and then have principles for increasing daily fitness in our repertoire.
 
-
+Operating on principles makes it more likely that we're aligned with the [laws](laws_of_physics.md) that underly how everything works.
 
 
